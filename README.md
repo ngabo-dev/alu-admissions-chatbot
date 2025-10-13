@@ -1,7 +1,7 @@
 # ALU University Admissions Chatbot
 
 ## 🎥 **VIDEO DEMO** - Click to Watch!
-[![ALU Chatbot Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![ALU Chatbot Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/LtUOlQm8Z3A?si=yvrCzfo09KEtj8IV)
 > **Quick Access**: Watch the 7-8 minute demonstration of the chatbot in action!
 
 ---
@@ -175,7 +175,7 @@ If you want to see everything:
 4. Chat with it!
 
 ### Demo Video
-I made a video showing how it all works. Check it out [here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) (link will be updated once uploaded).
+I made a video showing how it all works. Check it out [here](https://youtu.be/LtUOlQm8Z3A?si=yvrCzfo09KEtj8IV) (link will be updated once uploaded).
 
 ## � Future Enhancements
 
