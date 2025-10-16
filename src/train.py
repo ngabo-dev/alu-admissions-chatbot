@@ -9,6 +9,7 @@ from torch.utils.data import Dataset, DataLoader
 from nltk_utils import bag_of_words, tokenize, stem
 from model import NeuralNet
 
+# Load the processed dataset (originally from Hugging Face)
 with open('intents.json', 'r') as f:
     intents = json.load(f)
 
@@ -123,7 +124,7 @@ data = {
 "tags": tags
 }
 
-FILE = "data.pth"
+FILE = "../models/data.pth"
 torch.save(data, FILE)
 
 print(f'training complete. file saved to {FILE}')

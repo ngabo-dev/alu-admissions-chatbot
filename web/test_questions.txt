@@ -1,0 +1,18 @@
+African Leadership University (ALU) Admissions Chatbot - Test Questions
+
+These are the questions to test the chatbot with for the video demo, based on real ALU information:
+
+1. Hello
+2. I want to apply to ALU
+3. What programmes do you offer?
+4. What are the entry requirements for IBT?
+5. When are intakes?
+6. How much does ALU cost?
+7. Are there scholarships?
+8. Am I eligible if I finished high school in Kenya?
+9. What documents do you need?
+10. What's the status of my application?
+11. Do you help with student visas?
+12. How can I contact admissions?
+
+Expected responses should be relevant to ALU's actual programs, processes, and information as provided.

@@ -1,0 +1,177 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good morning",
+        "Good afternoon",
+        "Good day"
+      ],
+      "responses": [
+        "Hello! Welcome to African Leadership University (ALU) - crafting tomorrow's leaders through entrepreneurship and practical learning. How can I help you today?",
+        "Hi there! ALU is Rwanda's top choice for leading employers worldwide - 75% of our alumni get employed within 6 months earning $12k+ annually. How can I assist with your admissions questions?",
+        "Greetings! ALU combines pan-African leadership with global opportunities. What can I help you with regarding admissions?"
+      ]
+    },
+    {
+      "tag": "apply_start",
+      "patterns": [
+        "I want to apply to ALU",
+        "How do I start an application?",
+        "How do I apply?",
+        "Start application",
+        "Begin application process"
+      ],
+      "responses": [
+        "Great! To apply to ALU: 1) Register on ALU's admission portal NOW at https://start.alueducation.com, 2) Complete personal details (name, age, nationality, academic history), 3) Provide financing information, 4) Submit and get admission decision within 1 week!",
+        "Perfect! The 4 quick steps are: 1) Start your application - Register on https://start.alueducation.com, 2) Let us get to know you - Complete personal/academic details, 3) Financing your education - Provide sponsor information, 4) Submit and get decision within 1 week!"
+      ]
+    },
+    {
+      "tag": "programs_list",
+      "patterns": [
+        "What programmes do you offer?",
+        "Tell me about Software Engineering at ALU",
+        "What programs are available?",
+        "Degree programs",
+        "What can I study?"
+      ],
+      "responses": [
+        "ALU offers three bachelor's degrees: Bachelor of Software Engineering (BSE) - combines technical skills with leadership and entrepreneurship; Bachelor of Entrepreneurial Leadership (BEL) - prepares you to start ventures or become business leaders; and BSc (Hons) International Business & Trade (IBT) - fosters practical entrepreneurial mindset for African business realities. Which one interests you?",
+        "Our programs are: BSE (Software Engineering) - technical skills + leadership development; BEL (Entrepreneurial Leadership) - venture creation and business leadership; IBT (International Business & Trade) - African business focus with entrepreneurial mindset."
+      ]
+    },
+    {
+      "tag": "admission_requirements",
+      "patterns": [
+        "What are the entry requirements for IBT?",
+        "Do I need A-levels?",
+        "Admission criteria",
+        "Requirements for admission",
+        "What do I need to get admitted?"
+      ],
+      "responses": [
+        "ALU has country-specific entry requirements. Tell me your country and highest qualification (e.g., A-levels, High School Diploma, IB, national certificates), and I'll provide guidance or help you check eligibility.",
+        "Entry requirements vary by country and program. ALU lists minimum secondary certificate/pass requirements and program-specific subject thresholds. Please share your country and qualification type so I can provide specific guidance."
+      ]
+    },
+    {
+      "tag": "application_deadlines",
+      "patterns": [
+        "When are intakes?",
+        "When is the application deadline?",
+        "When should I apply?",
+        "Deadline for applications",
+        "When do applications close?"
+      ],
+      "responses": [
+        "ALU runs multiple intakes; the portal lists January and May (e.g., Jan 2026 & May 2026 for ALU Rwanda). Which intake do you want? Please check https://apply.alueducation.com for current deadlines.",
+        "Applications are open for January 2026 and May 2026 intakes. For specific deadlines, please check the application portal at https://apply.alueducation.com"
+      ]
+    },
+    {
+      "tag": "tuition_fees",
+      "patterns": [
+        "How much does ALU cost?",
+        "How much is IBT?",
+        "What are the fees?",
+        "Cost of attendance",
+        "How much does it cost?"
+      ],
+      "responses": [
+        "ALU lists tuition around US$3,000/year for Software Engineering (BSE) and Entrepreneurial Leadership (BEL), and US$4,000/year for International Business & Trade (IBT). Additional term-location costs may apply. Please confirm on https://www.alueducation.com",
+        "Tuition costs: BSE & BEL approximately US$3,000 per year, IBT around US$4,000 per year. Additional costs for term/location. Visit https://www.alueducation.com for current rates."
+      ]
+    },
+    {
+      "tag": "scholarships",
+      "patterns": [
+        "Are there scholarships?",
+        "Financial aid available?",
+        "How can I get funding?",
+        "Scholarship opportunities"
+      ],
+      "responses": [
+        "Yes — ALU offers grants and full-ride scholarships (e.g., Mastercard Foundation Scholars program). Do you want to check scholarship eligibility? Visit https://www.alueducation.com/scholarships",
+        "ALU provides grants and partners with the Mastercard Foundation to support eligible students with financial need and strong potential. Would you like to start a scholarship pre-screen?"
+      ]
+    },
+    {
+      "tag": "eligibility_check",
+      "patterns": [
+        "Am I eligible if I finished high school in Kenya?",
+        "I have a national diploma — can I apply?",
+        "Am I eligible?",
+        "Can I apply with my qualifications?"
+      ],
+      "responses": [
+        "ALU has country-specific eligibility rules. For example, they list minimum passes and program-subject thresholds (and an internal maths test for some programs). Please upload your certificate or tell me your exact grades and program interest so I can check.",
+        "Eligibility depends on your country and qualification. Tell me your country and exact certificate (e.g., Kenyan KCSE, A-levels, IB) and I'll check ALU's guidance — or you can upload your transcript and I'll run a pre-check."
+      ]
+    },
+    {
+      "tag": "documents_upload",
+      "patterns": [
+        "How do I upload my transcripts?",
+        "What documents do you need?",
+        "What documents are required?",
+        "Upload documents"
+      ],
+      "responses": [
+        "You'll need: scanned passport or national ID, secondary school transcripts/national exams, proof of English proficiency (if applicable), CV/personal statement/mission statement, letters of recommendation (if requested), and passport photo. Upload these on the application portal.",
+        "Required documents typically include: secondary school transcripts, national ID/passport, proof of English proficiency, a short mission statement (100-300 words), and recommendation letters. The exact list varies by intake — upload on https://apply.alueducation.com"
+      ]
+    },
+    {
+      "tag": "application_status",
+      "patterns": [
+        "What's the status of my application?",
+        "When will I hear back?",
+        "Application status",
+        "Have I been accepted?"
+      ],
+      "responses": [
+        "Application processing includes document verification, automated assessments, shortlisting, and interviews. You'll receive updates via email. For specific status, please check your application portal account.",
+        "The typical process is: application submission → document verification → assessments → interviews → offers. Response times vary, but you'll be notified via email. Check your portal for updates."
+      ]
+    },
+    {
+      "tag": "visa_accommodation",
+      "patterns": [
+        "Do you help with student visas?",
+        "Is campus accommodation available?",
+        "Visa information",
+        "Housing options"
+      ],
+      "responses": [
+        "I'm not authorized to give legal/definitive visa advice — please contact Admissions at ALU or I can schedule a human admissions officer to help. For accommodation, ALU provides campus housing options; check the portal for details.",
+        "For visa assistance, please contact ALU admissions directly. Campus accommodation is available at ALU Rwanda and other locations. Visit the portal for housing information and applications."
+      ]
+    },
+    {
+      "tag": "contact_support",
+      "patterns": [
+        "I need to talk to an admissions officer",
+        "Where is ALU located?",
+        "Contact information",
+        "How can I contact admissions?"
+      ],
+      "responses": [
+        "For more information, contact our representative Sheila Bwiza at sbwiza@alueducation.com (Rwanda). ALU Rwanda Campus is located at Bumbogo, Kigali Innovation City, Next to Azam, Kigali, Rwanda.",
+        "ALU has campuses in Rwanda (Kigali), Mauritius, and South Africa. Contact Sheila Bwiza at sbwiza@alueducation.com for Rwanda admissions. Visit https://www.alueducation.com/contact for more information."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Thank you"],
+      "responses": [
+        "Thank you for your interest in ALU! Feel free to contact us with any more questions.",
+        "Goodbye! We look forward to receiving your application.",
+        "Have a great day! Don't hesitate to reach out if you need more information about ALU."
+      ]
+    }
+  ]
+}
